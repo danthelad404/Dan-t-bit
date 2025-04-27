@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @Dan-t-bit
-- 👀 I’m interested in being a Full-Stack Web Development
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Dan! 👋
 
-<!---
-Dan-t-bit/Dan-t-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Front-End Developer** currently learning **JavaScript** and working towards becoming a **Full-Stack Developer**.
+
+## About Me
+- 🔭 I’m currently working on mastering JavaScript and backend development
+- 🌱 Learning Node.js, Express.js, MongoDB, and SQL
+- ✨ Passionate about building beautiful and responsive web applications
+- 🎯 Goal: Become a Full-Stack Developer and bring ideas to life!
+
+## Skills
+- **Front-End**: HTML5, CSS3, JavaScript
+- **Currently Learning**: Node.js, Express.js, MongoDB, SQL
+
