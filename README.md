@@ -4,7 +4,6 @@ I'm a **Front-End Developer** currently learning **JavaScript** and working towa
 
 ## About Me
 - 🔭 I’m currently working on mastering JavaScript and backend development
-- 🌱 Learning Node.js, Express.js, MongoDB, and SQL
 - ✨ Passionate about building beautiful and responsive web applications
 - 🎯 Goal: Become a Full-Stack Developer and bring ideas to life!
 
