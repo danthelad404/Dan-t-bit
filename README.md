@@ -9,5 +9,5 @@ I'm a **Front-End Developer** currently learning **JavaScript** and working towa
 
 ## Skills
 - **Front-End**: HTML5, CSS3, JavaScript
-- **Currently Learning**: Node.js, Express.js, MongoDB, SQL
+- **Currently Learning**: JS
 
